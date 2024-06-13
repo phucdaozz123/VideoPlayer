@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="text1">Nhóm 19</string>
+    <string name="text2">Để sử dụng ứng dụng, vui lòng cấp quyền bộ nhớ
+        cho ứng dụng bằng cách bấm nút CẤP QUYỀN ở bên dưới.</string>
+</resources>
