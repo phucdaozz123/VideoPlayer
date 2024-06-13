@@ -2,5 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#0C2585</color>
-    <color name="allowaccess">#FF0C2585</color>
+    <color name="allowaccess">#FBFBFB</color>
+    <color name="folderDetailColor">#FFFBFBFB</color>
 </resources>
